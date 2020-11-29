@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="./assets/shimmer.gif">
+    <img src="./assets/shimmer2.gif">
 </p>
 
 ## Efeito de skeleton (shimmer effect) utilizando React native (expo)
